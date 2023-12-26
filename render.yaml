@@ -1,5 +1,6 @@
 services:
   - type: web
-    name: edu
-    env: docker
+    name: suugaku
+    env: python
+    region: Oregon
     plan: free
